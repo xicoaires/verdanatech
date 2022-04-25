@@ -1,0 +1,5 @@
+Inicialmente o projeto foi um grande desafio pra mim, pois algumas partes do desafio eu nunca tinha feito, como a intergração do zero e  completa com o banco de dados. Já tinha feito algumas integrações, porém eram de projetos já iniciados, então eu tinha sempre que seguir o padrão já existente.
+
+A parte mais "fácil" foi o front com o html, css e javascript e o mais desafiador foi conseguir fazer a integração e o crud, pois das formas que eu aprendi no estagio não estavam funcionando, aí tive que pesquisar na internet para conseguir concluir.
+
+Incluí o framework SemanticUI e a biblioteca JQuery no projeto, que facilita no desenvolvimento.
