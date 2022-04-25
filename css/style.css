@@ -1,0 +1,33 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+
+.container{
+    width: 80vw;
+    height: 80vh;
+}
+
+.buttonOpenCall{
+    display:flex;
+    justify-content: right;
+    margin-bottom: 10px;
+
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+    text-decoration: none;
+
+}
+
+#iconDelete:hover{
+    cursor: pointer;
+    }
