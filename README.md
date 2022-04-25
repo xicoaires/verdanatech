@@ -1,1 +1,1 @@
-# verdanatech
+# Projeto de seleção da VerdanaTech
